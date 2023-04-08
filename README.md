@@ -7,4 +7,8 @@
 
 **[ Forage ]**
 
-Small projects done on Forage.
+Small projects done on Forage (virtual internships).
+
+> **Accenture (Data Analytics)** - Process csv datasets according to the reference.
+
+> **Quantium (SWE)** - 
