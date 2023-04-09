@@ -1,3 +1,3 @@
-1. Data processing and mining into data needed for visualization.
-2. Use Dash for visualization in web browser.
-3. Test whether the program works well.
+1. Data processing and mining into data required for visualization. -> DataProcessing.py
+2. Use Dash for visualization on web browser. -> app.py
+3. Test whether the program works well. -> tester.py
